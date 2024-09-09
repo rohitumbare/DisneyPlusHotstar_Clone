@@ -16,7 +16,7 @@ The "Disney+ Hotstar Web Page Clone" is a detailed reproduction of the Disney+ H
     
 ✅ Interactive Elements : 
 
-  JavaScript adds dynamic functionality to the interface, including features like interactive carousels, search bar, and responsive media previews. Users can engage with dynamic content such as video previews, hover effects..<br>
+  JavaScript adds dynamic functionality to the interface, including features like interactive carousels, search bar, and responsive media previews. Users can engage with dynamic content such as video previews, hover effects.<br>
     
 ✅ CSS Techniques :
 
