@@ -28,9 +28,9 @@ The "Disney+ Hotstar Web Page Clone" is a detailed reproduction of the Disney+ H
 
    <b>🧐 Technical Details : </b>
    
-  HTML : Structures the content, including headings, navigation menus, featured content sections, and interactive elements.<br>
-  CSS : Applies styling to the page, focusing on layout, color schemes, typography, and responsiveness.<br>
-  JavaScript : Implements interactive features such as dynamic carousels, and content updates, enhancing user engagement and experience.
+ 🧩 HTML : Structures the content, including headings, navigation menus, featured content sections, and interactive elements.<br>
+ 🎨 CSS : Applies styling to the page, focusing on layout, color schemes, typography, and responsiveness.<br>
+⚙️ JavaScript :  Implements interactive features such as dynamic carousels, and content updates, enhancing user engagement and experience.
 
 <b>🎓 Learning Experience : </b><br>
 
